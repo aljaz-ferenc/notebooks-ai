@@ -10,6 +10,13 @@ I like to learn by taking notes by actually running the code, seeing examples an
 
 This makes it easier for me to study concepts and patterns, and hopefully it can be useful for others who want concrete, runnable examples alongside the theory.
 
+| Notebook | Description |
+|---------|-------------|
+| [short_term_memory.ipynb](notebooks/short_term_memory.ipynb) | Basic setup, environment, and first LLM calls. |
+| [tools.ipynb](notebooks/tools.ipynb) | Introduction to tools with LangChain. |
+|
+
+
 ### How to use
 1. Clone the repository
 2. Install dependencies with `uv sync` (or `poetry install` if using poetry)
