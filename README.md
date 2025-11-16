@@ -14,7 +14,8 @@ This makes it easier for me to study concepts and patterns, and hopefully it can
 | Notebook | Description |
 |---------|-------------|
 | [short_term_memory.ipynb](notebooks/short_term_memory.ipynb) | InMemorySaver, checkpoints, thread_id with LangGraph |
-| [tools.ipynb](notebooks/tools.ipynb) | Introduction to tools with LangChain. 
+| [tools.ipynb](notebooks/tools.ipynb) | Introduction to tools with LangChain. |
+| [structured_output.ipynb](notebooks/structured_output.ipynb) | Structured output with LangChain. 
 
 ### How to use
 1. Clone the repository
